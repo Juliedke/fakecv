@@ -1,4 +1,19 @@
 .nice-font{
     font-family:Roboto, Geneva, Tahoma, sans-serif;
-    background:#BDD;
+    background:#E80C7A  
+}
+.txt{
+    margin-left:30px;
+}
+h3{text-transform: uppercase
+}
+.col-md-6{
+border-left: 1px solid grey;
+}
+.row{
+border-bottom: 1px solid grey;
+border-spacing: 10px;
+border-inline-start: 10px;
+}
+
 }
