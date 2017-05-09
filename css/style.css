@@ -1,6 +1,6 @@
 .nice-font{
     font-family:Roboto, Geneva, Tahoma, sans-serif;
-    background:#E80C7A  
+    color:#CAC6FF
 }
 .txt{
     margin-left:30px;
@@ -16,4 +16,11 @@ border-spacing: 10px;
 border-inline-start: 10px;
 }
 
+body{
+    background: url(https://image.shutterstock.com/z/stock-vector-seamless-pattern-of-gray-cubes-endless-black-and-white-cubic-background-cube-pattern-abstract-272062397.jpg);
 }
+.container{
+    background-color: white;
+}
+
+image: url(https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAh5AAAAJGZkOTU1YThiLTljYTUtNGZhZC1hODQyLTFmYmRjYTBhZDRlNQ.jpg)
